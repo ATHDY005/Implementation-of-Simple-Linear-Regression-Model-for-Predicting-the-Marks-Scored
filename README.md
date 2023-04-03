@@ -110,9 +110,38 @@ sqrt(mean_squared_error(y_test,y_predict))
 */
 
 ## Output:
+## Head and Tail Values 
+
+![image](https://user-images.githubusercontent.com/84709944/229363842-3dc23810-93d9-4cbe-96f4-6087dc344921.png)
+
+## Array value of X
+
+![image](https://user-images.githubusercontent.com/84709944/229363860-ec9fc0b3-1805-44cc-8f47-ba1cc62aaec4.png)
+
+## Array value of Y
+
+![image](https://user-images.githubusercontent.com/84709944/229363877-86ebe1be-fc69-4efc-9fab-7b2c5876b313.png)
+
+## Value of Y Prediction
+
+![image](https://user-images.githubusercontent.com/84709944/229363892-fd224268-41f7-49e6-b525-3e2a3f8469ab.png)
+
+## Array value of Y_test
+
+![image](https://user-images.githubusercontent.com/84709944/229364562-9319502e-aaf3-4f9e-b622-c3d90920bf8c.png)
+
+
+## TRAINING SET
+
 ![image](https://user-images.githubusercontent.com/84709944/229363474-b860eda1-12c4-4bb0-bda4-6ce22d9a3df5.png)
+
+## TEST SET
+
 ![image](https://user-images.githubusercontent.com/84709944/229363497-b5fe2e9f-7cdd-43e8-b2ea-dc935b06ca7a.png)
 
+## VALUES OF MSE,MAE,RMSE
+
+![WhatsApp Image 2023-04-02 at 9 41 22 PM](https://user-images.githubusercontent.com/84709944/229422595-7f37b94e-25e5-4ccc-bd96-b8ffd97920f8.jpeg)
 
 
 ## Result:
