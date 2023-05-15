@@ -114,6 +114,8 @@ sqrt(mean_squared_error(y_test,y_predict))
 
 ![image](https://user-images.githubusercontent.com/84709944/229363842-3dc23810-93d9-4cbe-96f4-6087dc344921.png)
 
+![image](https://github.com/ATHDY005/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84709944/831ac882-8080-42df-b1ae-57787be21bf7)
+
 ## Array value of X
 
 ![image](https://user-images.githubusercontent.com/84709944/229363860-ec9fc0b3-1805-44cc-8f47-ba1cc62aaec4.png)
